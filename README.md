@@ -1,6 +1,5 @@
 # wrkshop-webdev
 
-## https://depit2021.netlify.app/
 
 ```sh
 Some Key Takeaways!
